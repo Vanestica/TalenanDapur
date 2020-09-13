@@ -1,0 +1,138 @@
+body{
+  font-family: "Roboto";
+}
+
+.bar {
+-webkit-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+-moz-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+box-shadow: 1px 1px 15px -3px grey;
+}
+
+input{
+  border:none;
+  background-color: transparent;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+.bc{
+  position: relative;
+}
+
+.bc1{
+  top: 100px;
+  position: relative;
+  background-color: #fff;
+}
+
+.bc3{
+  border-radius: 100%;
+  height: 90px;
+  position: relative;
+  top: -40px;
+  left: 10px;
+}
+
+.fotoprofil {
+  border-radius:100%;
+  width:30%;
+}
+
+.iconkamera {
+  font-size:20px;
+  color:grey;
+  position:absolute;
+  bottom:0;
+  left:90px;
+}
+
+.bc4{
+  top: -5px;
+  right: 20px;
+  color:grey;
+  position: relative;
+  font-size: 20px;
+}
+
+.b1{
+  top: -20px;
+  position: initial;
+  margin-left: 20px;
+}
+
+.b2{
+  border-radius: 5px;
+  padding: 8px;
+  position: relative;
+  top: -10px;
+  font-size: 14px;
+  width: 90%;
+  border: 1px solid rgb(215,215,215);
+}
+
+.b3{
+  float: right;
+  color: #333;
+}
+
+.bl{
+  color:#ED503E;
+  position: relative;
+  font-size: 17px;
+  left: 23px;
+  font-family: "Roboto";
+  top: -55px;
+}
+
+.bl1{
+  float: right;
+  position: relative;
+  top: -80px;
+  right: 20px;
+  color: rgb(93,216,100);
+  font-weight: bold;
+  font-family: "Roboto";
+}
+
+.bl1:hover {
+  color:#333;
+}
+
+.bl:hover {
+  color:#333;
+}
+
+.b3:hover {
+  color:#333;
+}
+
+.bc4:hover {
+  color:grey;
+}
+
+.tabmenu {
+  overflow: hidden;
+  background-color: #ED503B;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+}
+.tabmenu a {
+  float: left;
+  display: block;
+  color: #f8f8f8;
+  text-align: center;
+  padding: 12px 19px;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.tabmenu a:hover {
+  color:white;
+  text-decoration: none;
+}

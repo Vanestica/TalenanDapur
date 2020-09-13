@@ -1,0 +1,29 @@
+.slick-prev{
+  background-color: Transparent;
+  border: none;
+  cursor:pointer;
+  outline:none;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 60px;
+  z-index: 9999;
+}
+
+.slick-next{
+  background-color: Transparent;
+  border: none;
+  cursor:pointer;
+  outline:none;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.logo-mr.slick-slide{
+  margin-left: 10px;
+}
+
+.thumbnailgallery-mr {
+	height: 0px;
+	padding-top: -100px;
+}

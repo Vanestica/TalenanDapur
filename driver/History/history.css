@@ -1,0 +1,73 @@
+.tanggal {
+	border-radius:5px;
+ }
+
+
+.a1{
+	background-color: #F26E5C;
+	color: #fff;
+	font-size: 18px;
+	padding-left: 10px;
+	font-family: "Arial";
+	height: 50px;
+	margin-bottom: 30px;
+}
+
+.fontputih {
+	color:white;
+}
+
+
+.tabmenu {
+  overflow: hidden;
+  background-color: #ED503B;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width:100%;
+  padding:10px 20px;
+}
+.tabmenu a {
+  float: left;
+  display: block;
+  color: #f8f8f8;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.tabmenu a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.iconbawah {
+	color: #ddd;
+}
+
+
+.at1{
+	position: relative;
+	left: 15px;
+
+}
+
+.c1{
+	position: sticky;
+	left: 20px;
+}
+
+.c2{
+	border-radius: 3px;
+	border: 1px solid #bbb;
+	color: #101010;
+	width: 90%;
+	padding-left: 6px;
+	background-color: #fff;
+	line-height: 3px;
+	font-size: 12px;
+	position: relative;
+	left: 20px;
+	margin-top: 10px;
+	padding-top: 10px;
+}

@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+}
+
+.warnaheader {
+	background-color: #ED503B;
+}
+
+input.caribar {
+	border-radius: 12px;
+	width: 250px;
+  height: 35px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.fontputih {
+	color: white;
+}
+
+.kotakkategori {
+	background-color:white;
+	width:100%;
+	margin-bottom: 20px;
+}
+
+.judulkategori {
+	font-weight: bold;
+	color: #F7A655;
+	font-size:24px;
+	padding:10px;
+	margin-bottom:0px;
+}
+
+.pilihan, .pilihanakhir {
+	border-bottom: 1px solid #999;
+	padding: 6px 15px;
+	color: #999;
+}
+
+.pilihanakhir {
+	border-bottom: none;
+}
+
+.ukgmbr {
+	width: 15%;
+	margin-right:20px;
+}

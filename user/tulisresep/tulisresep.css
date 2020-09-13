@@ -1,0 +1,71 @@
+.bar {
+-webkit-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+-moz-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+background-color: white;
+}
+
+.bgjudul {
+	background-color: #f8f8f8;
+	height: 50px;
+	box-shadow: 0px -2px 8px grey;
+}
+
+.bd{
+	-webkit-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+	-moz-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+	box-shadow: 1px 5px 5px -3px rgba(150,150,150,0.75);
+	margin-top: -5px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	background-color: rgb(239,239,239);
+}
+
+.back{
+	padding-bottom: 10px;
+	margin-top: 4px;
+	padding-top: 3px;	
+	background-color: rgb(223,223,223);
+}
+
+.but{
+	background-color:rgb(155,155,155);
+	border: none;
+	color: #fff;
+	margin-top: 57px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	font-size: 15px;
+	border-radius: 8px;
+	margin-left: 25px;
+}
+
+#image-preview{
+    display:none;
+    width : 328px;
+    height : 164px;
+}
+
+.inigambar {
+	margin-bottom: 20px;
+}
+
+.buttontambah {
+	background-color: transparent;
+	border:none;
+	font-size:35px;
+	font-weight: bold;
+	margin-top:-7px;
+	margin-right: -10px;
+}
+
+.penomoran {
+	border-radius: 50px;
+	width: 50px;
+	height: 50px;
+	background-color: lightgreen;
+}

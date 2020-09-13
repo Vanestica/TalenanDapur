@@ -1,0 +1,91 @@
+.bar {
+-webkit-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+-moz-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75)
+}
+
+.tanggal{
+	line-height: 5px;
+	padding-top: 20px;
+	padding-left: 15px;
+}
+
+.tanggal1{
+	width: 320px;
+	height: 35px;
+	padding-left: 10px;
+	border:1px solid rgb(201,201,201);
+}
+
+.nama{
+	width: 320px;
+	height: 35px;
+	padding-left: 10px;
+	border:1px solid rgb(201,201,201);
+}
+
+.nomor{
+	 background-color: rgb(234,234,234);
+	 padding-top: 14px;
+	 padding-right: 5px;
+	 padding-left:5px;
+	 padding-bottom: 14px;
+	 color: grey;
+	 border:1px solid rgb(209,209,209);
+}
+
+.nomor1{
+	width: 280px;
+	height: 35px;
+	padding-left: 10px;
+	border:1px solid rgb(201,201,201);
+	margin-left: -5px;
+}
+
+.alamat{
+	width: 320px;
+	height: 35px;
+	padding-left: 10px;
+	border:1px solid rgb(201,201,201);
+	padding-top: 10px;
+	height: 100px;
+	resize: none;"
+}
+
+.kirim{
+	padding-left: 10px;
+	padding-top: 20px;
+	border: 1px solid rgb(224,225,227);
+	width: 89%;
+	margin-left: 15px;
+	margin-top: 30px;
+	background-color: rgb(234,235,237);
+}
+
+.icon1{
+	float: left;
+	padding-right: 10px;
+	color: rgb(236,167,77);
+	background-color: rgb(255,220,138);
+}
+
+.note{
+	width: 320px;
+	height: 35px;
+	padding-left: 10px;
+	border:1px solid rgb(201,201,201);
+	padding-top: 10px;height: 100px;
+	resize: none;"
+}
+
+.simpan{
+	width: 93%;
+	margin-top: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border:none;
+	background-color: rgb(231,81,59);
+	color:#fff;
+	font-weight: bold;
+	margin-bottom: 10px;
+}

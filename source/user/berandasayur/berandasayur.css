@@ -1,0 +1,239 @@
+* {
+	box-sizing: border-box;
+}
+
+.warnaheader {
+	background-color: #ED503B;
+	box-shadow: 0px -2px 8px grey;
+}
+
+input.caribar {
+	border-radius: 12px;
+	width: 250px;
+  height: 35px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.fontputih {
+	color: white;
+}
+
+.tabmenu {
+  overflow: hidden;
+  background-color: #ED503B;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+}
+.tabmenu a {
+  float: left;
+  display: block;
+  color: #f8f8f8;
+  text-align: center;
+  padding: 12px 19px;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.iconbawah {
+	color: #eee;
+}
+
+.tabmenu a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.notification .badge {
+  position: absolute;
+  top: 10px;
+  right: 43px;
+  padding: 2px 5px;
+  border-radius: 50%;
+  background: red;
+  border:1px solid #fff;
+  color: white;
+}
+
+.notification1 .badge1 {
+  position: absolute;
+  top: 9px;
+  border:1px solid #fff;
+  font-size: 12px;
+  right: 8px;
+  font-weight: bold;
+  height: 18px;
+  padding: 0px 5px 13px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+}
+
+.carousel-inner img {
+ width: 100%;
+ height: 100%;
+}
+
+.kotak1 {
+  width:31%;
+  float:left;
+  padding:6px;
+  margin-bottom:12px;
+  margin-left: 10px;
+position:relative;
+}
+
+.top-right {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  color: red;
+}
+
+.wilayahfavorititem {
+  margin: 10px 15px;
+}
+
+.judulitem {
+  color: #ED503B;
+  font-weight: bold;
+  margin-top:3px;
+  font-size: 13px;
+}
+
+.kuantitasitem {
+  color: #969696;
+  font-size: 10px;
+}
+
+.hargaitem {
+  color: #ED503B;
+  font-weight:bold;
+  font-size: 14px;
+}
+
+.wilayahsortir {
+	width: 100%;
+	height: 95px;
+	margin-bottom: 20px;
+	background-color:white;
+	padding: 15px;
+}
+
+.kotaksortir {
+	width: 16%;
+	height: 60px;
+	float:left;
+}
+.kotaksortir a:hover {
+	text-decoration: none;
+	color: #ED503B;
+}
+
+.kotakgambar {
+	border: 1px solid black;
+	width:100%;
+	height:50px;
+	border-radius: 15px;
+}
+
+.namasortir {
+	color: black;
+	font-size: 12px;
+	text-align: center;
+}
+
+.aktif1 {
+	border: 1px solid #ED503B;
+}
+
+.aktif2 {
+	color: #ED503B;
+}
+
+.icon1{
+  width: 100%;
+  padding: 8px;
+  padding-bottom: 0px;
+}
+
+.kotaksp, .kotakspesifik {
+	width: 100%;
+	height: 245px;
+	padding:10px;
+	margin-bottom:20px;
+	background-color:white;
+}
+
+.kotakspesifik {
+	height: 710px;
+	margin-bottom:1px;
+}
+
+.warnaorange {
+	color: #F7A655;
+	font-weight:bold;
+}
+
+.warnaorange a {
+	color: #F7A655;
+	font-weight:bold;
+}
+
+.warnaorange a:hover {
+	color: #F7A655;
+	font-weight:bold;
+}
+
+.floatkiri {
+	float:left;
+}
+
+.floatkanan {
+	float:right;
+}
+
+.wilayahjualan {
+	width:100%;
+	float:left;
+	margin: 10px 0;
+}
+
+.judulitem {
+  color: #ED503B;
+  font-weight: bold;
+  margin-top:3px;
+  font-size: 13px;
+}
+
+.kuantitasitem {
+  color: #969696;
+  font-size: 10px;
+}
+.diskonitem {
+  color: #969696;
+  font-size: 10px;
+  text-decoration: line-through;
+  font-style: italic;
+}
+
+.hargaitem {
+  color: #ED503B;
+  font-weight:bold;
+  font-size: 14px;
+}
+
+.warnahijau {
+	color: #79EE47;
+	font-weight: bold;
+}
+
+.kotak2 {
+  width:46%;
+  float:left;
+  padding:6px;
+  margin-bottom:12px;
+  margin-left: 10px;
+    position:relative;
+}

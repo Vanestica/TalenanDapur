@@ -1,0 +1,128 @@
+	.a1{
+	background-color: #F26E5C;
+	color: #fff;
+	font-size: 20px;
+	padding-left: 10px;
+	font-family: "Arial";
+	height: 50px;
+}
+.ld{
+	text-align: center;
+	position: relative;
+	top: -130px;
+	left: 90px;
+}
+.dz{
+	height: 200px;
+}
+
+.md{
+	float: right;
+	position: relative;
+	right: 10px;
+	top: -25px;
+}
+
+.img{
+	top: -90px;
+	position: relative;
+	left: 25px;
+	height: 90px;
+}
+body{
+	width: 100%;
+}
+.b1{
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;	
+	border-radius: 3px;
+	border:1px solid #bbb;
+	background-color: #fff;
+}
+
+.d1{
+	margin-top: -110px;
+}
+
+.d2{
+	line-height: 5px;
+}
+
+.checked {
+	color:orange;
+}
+
+.fontputih {
+	color: white;
+}
+
+.tabmenu {
+  overflow: hidden;
+  background-color: #ED503B;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  width:100%;
+  padding:10px 20px;
+}
+.tabmenu a {
+  float: left;
+  display: block;
+  color: #f8f8f8;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.tabmenu a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.iconbawah {
+	color: #ddd;
+}
+
+.out{
+	margin-bottom: 70px;
+	margin-top: 15px;
+	text-align: center;"
+}
+
+.icl{
+	color:#F26E5C;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.img1{
+	background:url(../image/sakura.jpg);
+	opacity: 0.6;
+	margin-right: -15px;
+	margin-left: -15px;"
+}
+.md{
+	position: relative;
+	right: 10px;
+	top: -25px;
+	left: 80px;
+}
+
+.md1{
+	font-family: sans-serif;
+	left: 50px;
+	font-size: 12px;
+	position: relative;top: -5px;"
+}
+.ds{
+	border:none;
+	border-radius: 3px;
+	font-size: 15px;	
+	font-family: sans-serif;
+	color:#5CC3F5;
+	background: none;
+	font-size: 13px;
+	padding-left: 15px;
+	padding-right: 15px;
+}

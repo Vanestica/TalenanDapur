@@ -1,0 +1,281 @@
+* {
+	box-sizing: border-box;
+}
+
+.warnaheader {
+	background-color: #ED503B;
+	box-shadow: 0px -2px 8px grey;
+  width: 100%;
+}
+
+input.caribar {
+	border-radius: 12px;
+	width: 250px;
+  height: 35px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+.fontputih {
+	color: white;
+}
+
+.tabmenu {
+  overflow: hidden;
+  background-color: #ED503B;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+}
+.tabmenu a {
+  float: left;
+  display: block;
+  color: #f8f8f8;
+  text-align: center;
+  padding: 12px 19px;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.tabmenu a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.iconbawah {
+	color: #eee;
+}
+
+.notification .badge {
+  position: absolute;
+  top: 10px;
+  right: 50px;
+  padding: 2px 5px;
+  border-radius: 50%;
+  background: red;
+  border:1px solid #fff;
+  color: white;
+}
+
+.badge {
+  position: absolute;
+  top: 9px;
+  border:1px solid #fff;
+  font-size: 12px;
+  right: 100px;
+  font-weight: bold;
+  border-radius: 1000pt;
+  background: red;
+  color: white;}
+
+.notification1 .badge1 {
+  position: absolute;
+  top: 9px;
+  border:1px solid #fff;
+  font-size: 12px;
+  right: 8px;
+  font-weight: bold;
+  height: 18px;
+  padding: 0px 5px 13px;
+  border-radius: 50%;
+  background: red;
+  color: white;
+}
+
+.carousel-inner img {
+ width: 100%;
+ height: 100%;
+}
+
+.icon1{
+  width: 100%;
+  padding: 8px;
+  padding-bottom: 0px;
+}
+
+.wilayahsortir {
+	width: 100%;
+	height: 95px;
+	margin-bottom: 20px;
+	background-color:white;
+	padding: 15px;
+}
+
+.kotaksortir {
+	width: 16%;
+	height: 60px;
+	float:left;
+}
+.kotaksortir a:hover {
+	text-decoration: none;
+	color: #ED503B;
+}
+
+.kotakgambar {
+	border: 1px solid black;
+	width:100%;
+	height:50px;
+	border-radius: 15px;
+}
+
+.namasortir {
+	color: black;
+	font-size: 12px;
+	text-align: center;
+}
+
+.kotakpb, .kotaksp, .kotaktopup {
+	width: 100%;
+	height: 200px;
+	padding:10px;
+	margin-bottom:20px;
+	background-color:white;
+}
+
+.kotaksp {
+	height:245px;
+}
+
+.warnaorange {
+	color: #F7A655;
+	font-weight:bold;
+}
+
+.warnaorange a {
+	color: #F7A655;
+	font-weight:bold;
+}
+
+.warnaorange a:hover {
+	color: #F7A655;
+	font-weight:bold;
+}
+
+.floatkiri {
+	float:left;
+}
+
+.floatkanan {
+	float:right;
+}
+
+.kotakbanner {
+	width:100%;
+	height:170px;
+	background-color:white;
+	margin-bottom:20px;
+}
+
+.kotak1 {
+  width:33%;
+  float:left;
+  padding: 1px;
+  position:relative;
+  border: 1pt solid #AEAEAE;
+  margin-right: 7pt;
+}
+
+.top-right {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  color: red;
+}
+
+
+.wilayahjualan {
+	width:100%;
+	float:left;
+	margin: 20px 0;
+}
+
+.judulitem {
+  color: #ED503B;
+  font-weight: bold;
+  margin-top:3px;
+  font-size: 13px;
+  padding-left: 5px;
+}
+
+.kuantitasitem {
+  color: #969696;
+  font-size: 10px;
+  padding-left: 5px;
+}
+.diskonitem {
+  color: #969696;
+  font-size: 10px;
+  text-decoration: line-through;
+  font-style: italic;
+  padding-left: 5px;
+}
+
+.hargaitem {
+  color: #ED503B;
+  font-weight:bold;
+  font-size: 14px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+.kotaktopup {
+	background-color: white;
+	width: 100%;
+	margin-bottom:20px;
+	height: 140px;
+}
+
+.angkasaldo {
+	color: #6BDB3B;
+	font-weight:bold;
+}
+.wilayahsaldo {
+	width:100%;
+	float:left;
+	margin: 10px 0;
+	margin-bottom:0;
+}
+
+.main{
+  position : absolute;
+  left: 75px;
+  color : #ED503B;
+  font-size : 18px;
+  transition : font-size 0.1s;
+    text-align : center;
+  a{
+    z-index : 1;
+    i{
+      color : #ED503B;
+    }
+  }
+  .addedStars{
+    position : absolute;
+    top : 0;
+    left : 0;
+    .added{
+      position : absolute;
+      opacity : 1;
+      transition : all 0.5s;
+    }
+  }
+}
+
+
+.ko1 {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  margin-top: 5pt;
+  margin-bottom: 15pt;
+  padding-top: 6pt; 
+}
+
+
+.ko2 {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  margin-top: 5pt;
+  padding-top: 6pt;
+}

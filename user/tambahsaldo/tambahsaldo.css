@@ -1,0 +1,43 @@
+.bar {
+-webkit-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+-moz-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+background-color: white;
+}
+.kotak1 {
+	height:100%;
+	width:100%;
+}
+.sub1 {
+	width:100%;
+	height:70px;
+	margin-bottom:10px;
+	background-color: white;
+	-webkit-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+-moz-box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+box-shadow: 1px 1px 15px -3px rgba(150,150,150,0.75);
+}
+.sub2 {
+	font-size:11px;
+	margin-top: -5px;
+	text-align: left;
+}
+.sub3 {
+	font-size:14px;
+	margin-top:6px;
+}
+.kotaklogo {
+	width:70px;
+	height:70px;
+}
+.kotakkanan {
+	float:right;
+	margin-right:10px;
+	width:248px;
+	text-align:right;
+}
+.logobank {
+	width:100%;
+	height:100%;
+	padding:5px;
+}

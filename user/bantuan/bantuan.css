@@ -1,0 +1,42 @@
+.faq {
+	font-weight: bold;
+	text-align: center;
+	margin: 10px 0;
+	color:#5CC3F5;
+}
+
+.tabmenu {
+  overflow: hidden;
+  background-color: #ED503B;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  
+}
+.tabmenu a {
+  float: left;
+  display: block;
+  color: #f8f8f8;
+  text-align: center;
+  padding: 12px 19px;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.tabmenu a:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.iconbawah {
+	color: #eee;
+}
+
+
+.card-header a {
+	color:black;
+}
+.card-header a:hover {
+	color:black;
+}
+

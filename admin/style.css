@@ -1,0 +1,30 @@
+.menu1 {
+	color: #ED503B;
+	background-color:white;
+}
+
+.menu1 a {
+	color: #ED503B;
+	background-color:white;
+	text-decoration: none;
+}
+
+.selectedmenu {
+	color: white;
+	background-color: #ED503B;
+}
+
+.selectedmenu a {
+	color: white;
+	background-color: #ED503B;
+	text-decoration: none;
+}
+
+#chart-container {
+    width: 80%;
+    height: 100%;
+}
+
+.iconmenu {
+	margin-top: -8px;
+}
